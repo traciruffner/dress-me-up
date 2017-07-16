@@ -1,0 +1,88 @@
+body{
+    background-image: url('../images/bedroom.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    position: fixed;
+}
+
+p{
+    text-align: center;
+    font-size: 2em;
+    background-color: pink;
+}
+
+#doll{
+    margin-bottom: 1em;
+}
+
+#dress1, #dress3{
+    width: 18em;
+    height: auto;
+    z-index: 1;
+}
+
+#dress2{
+    width: 14em;
+    height: auto;
+    z-index: 1;
+}
+
+#dress3{
+    margin-top: -37em;
+    margin-left: 5em;
+    width: 18em;
+}
+
+#jeans{
+    margin-top: 8em;
+    margin-left: 20em;
+    width: 7em;
+    z-index: 1;
+}
+
+#dress4{
+    margin-top: -15em;
+    margin-left: 10em;
+    width: 12em;
+    z-index: 2;
+}
+#wig1, #wig2{
+    width: 5.5em;
+    z-index: 1;
+}
+
+#wig3{
+    width: 7.5em;
+    z-index:1;
+}
+
+#wig4{
+    width: 5em;
+    z-index: 1;
+}
+
+#wig5{
+    width: 6.25em;
+    z-index: 1;
+}
+
+#tiara{
+    width: 4em;
+    margin-left: 14em;
+    
+    z-index: 2;
+}
+
+#roses{
+    width: 6em;
+    z-index: 2;
+    margin-left: 5em;
+}
+        
+#footer{
+    width: 100%;
+    height: 3em;
+    background-color: pink;
+}

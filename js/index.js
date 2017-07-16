@@ -1,0 +1,15 @@
+$(document).ready(function(){
+    $('#doll').draggable();
+    $('#dress1').draggable();
+    $('#dress2').draggable();
+    $('#dress3').draggable();
+    $('#dress4').draggable();
+    $('#jeans').draggable();
+    $('#wig1').draggable();
+    $('#wig2').draggable();
+    $('#wig3').draggable();
+    $('#wig4').draggable();
+    $('#wig5').draggable();
+    $('#tiara').draggable();
+    $('#roses').draggable();
+});
