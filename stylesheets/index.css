@@ -14,7 +14,6 @@ p{
 
 #doll{
     margin-bottom: 1em;
-    width: 39em;
     height: auto;
     
 }
@@ -68,6 +67,10 @@ p{
 #wig5{
     width: 6.25em;
     z-index: 1;
+}
+
+#left, #center, #right{
+    margin-top: 10em;
 }
 
 #tiara{
